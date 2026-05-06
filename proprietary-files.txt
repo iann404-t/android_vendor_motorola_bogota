@@ -1,0 +1,15 @@
+bin/*
+etc/*
+firmware/*
+lib/*.so
+lib64/*.so
+lib/hw/*.so
+lib64/hw/*.so
+odm/bin/*
+odm/etc/*
+odm/firmware/*
+odm/lib/*.so
+odm/lib64/*.so
+odm/lib/hw/*.so
+odm/lib64/hw/*.so
+vendor_dlkm/etc/*
